@@ -24,11 +24,12 @@ Redirect your customers to payment platforms to collect money effortless
 and track the payment status (call-back).
 Odoo supports more and more platforms over time: 
 
-* `Paypal <paypal.html>`__
-* Ingenico
-* Authorize.net
 * Adyen
+* `Authorize.net <authorize.html>`__
 * Buckaroo
+* Ingenico
+* `Payfort <payfort.html>`__
+* `Paypal <paypal.html>`__
 * PayUmoney
 * Sips
 * Stripe
