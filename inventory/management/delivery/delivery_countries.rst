@@ -36,6 +36,5 @@ address.
     :align: center
 
 .. note::
-    This process doesn't work in backend. We assume that when you
-    create a Sale Order, you know which delivery method you can use since
-    you created them.
+    This process also works in backend. When you
+    create a Sale Order, delivery methods will be filtered by the partner's address (or shipping address if enabled).
